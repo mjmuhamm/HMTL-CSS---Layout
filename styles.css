@@ -181,3 +181,7 @@ span{
   background-image: linear-gradient(to bottom, #429dd6, #3498db);
   text-decoration: none;
 }
+
+img {
+  border-radius: 8px;
+}
